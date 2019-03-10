@@ -4,17 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-<<<<<<< HEAD
-  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
-=======
->>>>>>> cf83ddfca0e732158b153a21ac1e95496f94a3db
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
-<<<<<<< HEAD
-=======
 
 .vertical-center {
 	min-height: 100%;
@@ -224,4 +218,3 @@ body {
     background: #C5C5F1;
     text-decoration: none;
 }
->>>>>>> cf83ddfca0e732158b153a21ac1e95496f94a3db
