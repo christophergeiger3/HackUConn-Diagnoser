@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - The Big Picture](https://startbootstrap.com/template-overviews/the-big-picture/)
 
 [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
@@ -58,3 +59,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/gh-pages/LICENSE) license.
+=======
+## HackUConn 2019 Project
+
+NetCare Web App
+>>>>>>> cf83ddfca0e732158b153a21ac1e95496f94a3db
